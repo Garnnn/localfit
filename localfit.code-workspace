@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "localfit",
+			"path": "."
+		},
+		{
+			"name": "localfit-ws",
+			"path": "../../../../xampp/htdocs/E-comms/ecomm/e-comm/localfit-ws"
+		}
+	],
+	"settings": {}
+}

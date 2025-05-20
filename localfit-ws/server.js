@@ -10,7 +10,7 @@ app.use(cors());
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "*", // For development only. Use your Angular app's URL in production.
+    origin: "https://localfit.store", // Only allow your production frontend
     methods: ["GET", "POST"]
   }
 });
